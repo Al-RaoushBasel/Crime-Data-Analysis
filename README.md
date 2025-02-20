@@ -97,6 +97,11 @@ This project analyzes global crime trends, exploring how socio-economic factors 
 ### 🗺️ **Folium Interactive Crime Map**
 🌍 **Interactive Visualization:** Using **Folium**, we mapped global crime index values with **color-coded markers** to indicate different crime severity levels.
 
+🔎 **Click on the map below to explore the interactive version!** ⬇️  
+
+[![Crime Map](https://raw.githubusercontent.com/al-raoushbasel/Crime-Data-Analysis/main/crime_map_screenshot.png)](https://al-raoushbasel.github.io/Crime-Data-Analysis/)
+
+
 ---
 
 
@@ -117,11 +122,11 @@ This project analyzes global crime trends, exploring how socio-economic factors 
 ---
 
 ## 📁 Project Files
-📜 `crime_data_analysis.ipynb` → Full analysis notebook
+📜 `crime_Analysis.ipynb` → Full analysis notebook
 
-📊 `crime_data_cleaned.csv` → Preprocessed dataset
+📊 `csv files` → Preprocessed datasets
 
-🗺️ `crime_map.html` → Interactive crime visualization
+🗺️ `crime_map.html / index.html` → Interactive crime map visualization
 
 ---
 
@@ -138,9 +143,12 @@ git clone https://github.com/yourusername/crime-data-analysis.git
 ---
 
 ## 🔗 Links
-📌 **Project Notebook:** [Google Colab](https://colab.research.google.com/)
 
-📌 **Dataset Source:** [Kaggle Crime Data](https://www.kaggle.com/)
+
+📌 **Dataset Sources:**  
+- [Kaggle Crime Data](https://www.kaggle.com/)  
+- [World Bank Open Data](https://data.worldbank.org/)  
+
 
 📌 **Portfolio Website:** [Portfolio](https://al-raoushbasel.github.io/portfolio/)
 
