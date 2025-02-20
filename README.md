@@ -33,20 +33,22 @@ This project analyzes global crime trends, exploring how socio-economic factors 
 5. **Zurich, Switzerland** (17.26)
 
 ### 📊 **Statistical Highlights**
-- **Highest GDP (2022):** China ($17.88T)
-- **Lowest GDP (2022):** Maldives ($6.18B)
-- **Largest Population:** China (1.42B)
-- **Smallest Population:** Iceland (372,899)
-- **No direct correlation between GDP and crime levels.**
+- 🏆 **Highest GDP (2022):** China ($17.88T)
+- 📉 **Lowest GDP (2022):** Maldives ($6.18B)
+- 🌏 **Largest Population:** China (1.42B)
+- 🏝️ **Smallest Population:** Iceland (372,899)
+- 📊 **GDP has little direct impact on crime rates (-0.06 weak negative correlation).**
+
 
 ### 🔗 **Correlation Analysis**
-| Factor                     | Correlation with Crime Index |
-|----------------------------|-----------------------------|
-| **Income per Capita**      | **-0.37 (Negative)**        |
-| **Unemployment Rate**      | **0.35 (Positive)**         |
-| **Education Enrollment**   | **-0.22 (Negative)**        |
-| **GDP**                    | **-0.06 (Weak Negative)**   |
-| **Population**             | **0.01 (No Impact)**        |
+| Factor                  | Correlation with Crime Index |
+|-------------------------|-----------------------------|
+| **Income per Capita**   | 🔽 **-0.37** (Negative)    |
+| **Unemployment Rate**   | 🔼 **0.35** (Positive)     |
+| **Education Enrollment**| 🔽 **-0.22** (Negative)    |
+| **GDP**                 | 🔽 **-0.06** (Weak Negative) |
+| **Population**          | ➖ **0.01** (No Impact)    |
+
 
 🔹 **Higher Income = Lower Crime** 🟢
 
